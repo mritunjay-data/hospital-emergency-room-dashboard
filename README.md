@@ -19,20 +19,20 @@ This project analyzes hospital emergency room data using Excel.
 - Charts
 - Data Cleaning
 
-## 📈 Dashboard Features
+##  Dashboard Features
 - Patient count analysis
 - Waiting time trends
 - Department-wise distribution
 - Peak hour analysis
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard](dashboard_screenshot.png)
 
-## 🔍 Key Insights
+##  Key Insights
 - Peak hours occur between X–Y
 - Average waiting time is X minutes
 - Most patients visit department X
 
-## 🚀 Conclusion
+##  Conclusion
 This dashboard helps in improving decision-making for hospital management.# hospital-emergency-room-dashboard
 Excel dashboard analyzing hospital emergency room data
